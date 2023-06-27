@@ -2,10 +2,11 @@
 
 To install:
 ```
-    pip install flask
+pip install flask
+pip install folium
 ```
 
 How to run:
 ```
-    python app.py
+python app.py
 ```
