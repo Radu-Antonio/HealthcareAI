@@ -1,100 +1,84 @@
-name,latitude,longitude,speciality,emergency,current waiting time,predicted waiting time in 3 hours
-Centre hospitalier Louis Giorgi,44.14768075,4.822789893917223,nan,yes,47,80
-Hôtel-Dieu,48.85468295,2.348861910166425,intensive,yes,44,62
-Hôpital Lapeyronie,43.6298864,3.8514806969527005,intensive,yes,38,36
-Hôpital Guy de Chaulhac,44.52249085,3.4907135794955475,intensive,yes,61,7
-Centre hospitalier Coeur de Corrèze,45.2708205,1.770802318743089,general,yes,57,82
-Centre hospitalier de Briançon,44.9059254,6.633144405847213,nan,yes,33,10
-Hôpital de Valence,44.9136558,4.905304651037822,intensive,yes,38,75
-Centre Hospitalier Jacques Monod,46.514998750000004,-1.7517402375184548,nan,yes,85,45
-Clinique Beau Soleil,43.6098803,3.8483683441131884,nan,yes,104,10
-Clinique mutualiste des Eaux Claires,45.1813406,5.70913332668281,nan,yes,92,62
-Centre hospitalier Joseph Imbert,43.65746555,4.633724323145207,intensive,yes,35,26
-Hôpital Carémeau,43.82407765,4.321087755352258,nan,yes,51,82
-Centre hospitalier de Versailles,48.83153985,2.125710891015625,intensive,yes,87,98
-Hôpital Anne de Ticheville,49.09016165,0.5895574271831363,nan,yes,65,1
-Clinique Lyon-Nord Rillieux,45.821199050000004,4.887024969241416,nan,yes,40,40
-Centre hospitalier Les Feugrais,49.305457000000004,1.042588613306953,intensive,yes,89,126
-Centre hospitalier Émile Borel,43.958307250000004,2.875517379940537,nan,yes,30,15
-Centre Hospitalier Saint-Charles,48.676217550000004,5.887384974050018,nan,yes,83,42
-Hôpital Pierre Delpech,44.56901245,2.252421974631416,vaccination;emergency;general,yes,116,35
-Hôpital Saint-Louis,48.87382745,2.367700706209151,intensive,yes,103,98
-Centre hospitalier Jean Coulon,44.734230499999995,1.3751603087336797,nan,yes,86,41
-Centre hospitalier Sud-Gironde - Site de Langon,44.5446254,-0.24538233436162812,nan,yes,96,130
-Centre hospitalier de Gap,44.557099,6.073025290637922,intensive,yes,64,74
-Centre hospitalier Germon et Gauthier,50.514977099999996,2.6689790241571725,intensive,yes,74,13
-Hôpital de Girac,45.63525735,0.1197324196340693,intensive,yes,99,14
-Centre hospitalier Jeanne de Navarre,49.0534396,3.4127013537626034,general;paediatrics;ophthalmology;dentistry;orthopaedics;gynaecology;surgery;emergency;cardiology;radiology;internal;biology;maternity;geriatrics;intensive,yes,76,86
-Centre hospitalier Jean Leclaire,44.899480249999996,1.222999797916665,nan,yes,43,53
-Clinique Saint Charles,45.76994555,4.8273994810625585,nan,yes,46,90
-Hôpital Augustin-Morvan,48.394295400000004,-4.48649515764237,intensive,yes,39,13
-Hôpital Layné,43.8951539,-0.4854818,intensive;dialysis;gynaecology;cardiology;ophthalmology;oncology;radiology;paediatrics;maternity;orthopaedics;trauma;dermatology,yes,57,28
-Hôpital Saint-Julien,48.6869236,6.193465704833253,nan,yes,90,135
-Centre hospitalier Jean Rougier,44.44490505,1.4364895189610078,intensive,yes,100,109
-Hôpital de Courbevoie-Neuilly,48.890314849999996,2.2622817891015803,nan,yes,50,32
-Centre hospitalier de Villenueve-sur-Lot,44.406474849999995,0.7461156741596905,nan,yes,87,104
-Hopital Xavier Bichat,48.898994849999994,2.3324760074407234,intensive,yes,77,98
-Centre Hospitalier Jacques Monod,46.514998750000004,-1.7517402375184548,nan,yes,70,83
-Centre hospitalier Jean-Antoine Brisset,49.925312500000004,4.073180628030295,nan,yes,68,83
-Centre hospitalier Edmon Garcin,43.2919993,5.563886646040723,intensive,yes,105,51
-Centre hospitalier intercommunal de Villeneuve-Saint-Georges,48.72185,2.452865174569027,intensive,yes,48,33
-Centre hospitalier Gaston Ramon,48.19299805,3.298618889701402,intensive,yes,43,65
-Centre hospitalier Marc Jacquet,48.5574619,2.643190184208771,intensive,yes,72,89
-Hôpital François Mitterrand,47.3205124,5.069293203447381,intensive,yes,30,1
-Centre hospitalier de la Haute Gironde,45.135088749999994,-0.6597165828529701,nan,yes,115,110
-CHU de Besançon,47.225039699999996,5.962193262689461,nan,yes,96,89
-Centre hospitalier Samuel Pozzi,44.850587250000004,0.4968278863983853,nan,yes,49,55
-Hôpital de Cambolle,49.032386200000005,1.1147657840509462,general;intensive,yes,49,57
-Hôpital de Lons-le-Saunier,46.6767034,5.550261476382488,intensive,yes,93,105
-Centre hospitalier de Saint-Gaudens,43.112362149999996,0.7106281192900736,intensive,yes,60,82
-Centre Hospitalier de la Haute Vallée de l'Oise,49.58782855,2.9998920321908367,nan,yes,44,28
-Centre hospitalier Léon Touhladjian,48.91876025,2.02250925422799,intensive,yes,105,131
-Bocage central,47.3205124,5.069293203447381,intensive,yes,56,27
-Clinique privée d'Istres,43.50813545,4.99194135072049,nan,yes,54,24
-Centre hospitalier Pierre Vitter,47.4461277,5.585942784442866,nan,yes,31,57
-Clinique Capio La Croix du Sud,43.5828526,1.5096322900302717,intensive,yes,43,57
-Hôpital Broussais,48.637859750000004,-2.0080408491045425,intensive,yes,39,62
-Centre hospitalier Docteur Techer,50.9414386,1.8915308970710116,intensive,yes,94,123
-Hôpital Champ le Roy,48.36901695,5.708147571810916,nan,yes,120,26
-CHD,45.763950300000005,3.1371718261235984,intensive,yes,71,66
-CHP Saint-Grégoire,44.709625,6.089838159574467,nan,yes,109,114
-Centre hospitalier de Manosque,43.828628249999994,5.805973745996505,nan,yes,108,131
-Centre hospitalier Jean Marcel,43.40351615,6.066423172068134,nan,yes,87,89
-Clinique mutualiste de Bellevue,45.41439885,4.394430165521524,intensive,yes,115,91
-Centre hospitalier La Palmosa,43.7668453,7.483488698300468,nan,yes,85,87
-Hôpital Louis Pasteur,44.15896455,4.616679710007895,general,yes,59,60
-Centre Hospitalier Intercommunal Castres-Mazamet,43.56614145,2.262151515779642,intensive,yes,50,75
-Centre hospitalier de Pontoise,49.063755549999996,2.0966771560937487,intensive,yes,108,108
-Groupe hospitalier Henri Mondor,48.795941549999995,2.452260889708965,intensive,yes,80,72
-CHI 70 - Site de Luxeuil,47.82214365,6.380166229501725,nan,yes,76,89
-Hôpital pédiatrique Gatien de Clocheville,47.3900019,0.680540749298655,paediatrics;intensive,yes,118,7
-Centre Médico Chirurgical du Mans,47.9658019,0.22672358216694474,nan,yes,30,46
-Pôle Santé Lunel,43.6649632,4.125297428333333,nan,yes,57,66
-Hôpital Paul Chapron,48.18933775,0.6626425017835005,nan,yes,83,100
-Clinique mutualiste de Pessac,44.80650645,-0.6096267958896088,nan,yes,33,35
-Centre médico-chirugical Wallerstein,44.7530217,-1.1292287477628642,nan,yes,49,22
-Centre Hospitalier de Charleville-Mézières,49.7622185,4.69781171920827,intensive,yes,118,22
-Hôtel-Dieu,48.85468295,2.348861910166425,nan,yes,111,120
-Hôpital militaire Legouest,49.113106900000005,6.189921956596882,nan,yes,118,82
-Hôpital de la Source,47.83743705,1.9192067978315233,nan,yes,98,45
-Hôpital Bonnet,43.4380573,6.751293,intensive,yes,63,93
-Centre hospitalier Georges Charpak,47.26675815,-2.2575029823813155,intensive,yes,42,82
-Centre hospitalier Maréchal Leclerc,48.74690495,-0.017728340012860017,nan,yes,54,92
-CHRU de Lille,50.6082981,3.03462175149122,intensive,yes,46,16
-CHI Robert Ballanger,48.9530774,2.524734522455711,intensive,yes,96,140
-Nouvelles Cliniques Nantaises,47.1956298,-1.5477185013868593,nan,yes,103,140
-Hôpital Saint-Charles,48.49877185,4.951554433803219,nan,yes,48,7
-Centre d'accueil et de soins hospitalier de Nanterre,48.9156245,2.2230309,nan,yes,88,23
-Centre hospitalier de Louviers,49.21131725,1.175462828913033,nan,yes,80,72
-Centre hospitalier Henri Duffaut,43.91927685,4.802070887189091,intensive,yes,59,71
-GHSA Site de Rethel,49.511817,4.36188354909091,nan,yes,33,16
-ancien hôpital franco-musulman,48.914703599999996,2.4239247927815906,intensive,yes,77,46
-Site René Arbeltier,48.827149399999996,3.095812035221226,nan,yes,53,86
-Hôpital de La Seyne-sur-Mer,43.10830985,5.871182829900572,nan,yes,86,129
-Hôpital Victor Dupouy,48.9462153,2.2383375,intensive,yes,42,80
-Hôpital des Chanaux,46.31593685,4.8137723444904585,intensive,yes,48,55
-Hôpital d'Orsay,48.69908715,2.1866368502992843,intensive;emergency;paediatrics,yes,54,35
-Hôpitaux de Brabois,48.647394399999996,6.149975991839207,intensive,yes,34,7
-Centre hospitalier de Chambéry,45.564953450000004,5.909870862273365,intensive,yes,46,64
-Hôpital Victor Provo,50.6787037,3.1725971,intensive,yes,97,133
-Clinique de l'alliance,47.4332918,0.6677985765726138,intensive,yes,92,55
+name,latitude,longitude,speciality,emergency,current waiting time,predicted waiting time in 3 hours,distance,travel time,total time
+Centre hospitalier Louis Giorgi,44.14768075,4.822789893917223,nan,yes,78,90,558.32,393,471
+Hôtel-Dieu,48.85468295,2.348861910166425,intensive,yes,114,43,4.0,7,50
+Hôpital Lapeyronie,43.6298864,3.8514806969527005,intensive,yes,86,69,593.55,413,482
+Hôpital Guy de Chaulhac,44.52249085,3.4907135794955475,intensive,yes,65,18,490.67,355,373
+Centre hospitalier Coeur de Corrèze,45.2708205,1.770802318743089,general,yes,53,92,400.89,302,355
+Centre hospitalier de Briançon,44.9059254,6.633144405847213,nan,yes,74,29,549.24,388,417
+Hôpital de Valence,44.9136558,4.905304651037822,intensive,yes,68,101,481.35,349,417
+Centre Hospitalier Jacques Monod,46.514998750000004,-1.7517402375184548,nan,yes,34,46,399.44,301,335
+Clinique Beau Soleil,43.6098803,3.8483683441131884,nan,yes,110,130,595.68,414,524
+Clinique mutualiste des Eaux Claires,45.1813406,5.70913332668281,nan,yes,100,14,483.8,351,365
+Centre hospitalier Joseph Imbert,43.65746555,4.633724323145207,intensive,yes,30,59,605.56,420,450
+Hôpital Carémeau,43.82407765,4.321087755352258,nan,yes,60,84,580.95,406,466
+Centre hospitalier de Versailles,48.83153985,2.125710891015625,intensive,yes,66,43,12.71,19,62
+Hôpital Anne de Ticheville,49.09016165,0.5895574271831363,nan,yes,84,100,127.08,120,204
+Clinique Lyon-Nord Rillieux,45.821199050000004,4.887024969241416,nan,yes,110,71,390.09,295,366
+Centre hospitalier Les Feugrais,49.305457000000004,1.042588613306953,intensive,yes,118,90,103.85,102,192
+Centre hospitalier Émile Borel,43.958307250000004,2.875517379940537,nan,yes,43,88,546.68,387,430
+Centre Hospitalier Saint-Charles,48.676217550000004,5.887384974050018,nan,yes,69,34,264.08,216,250
+Hôpital Pierre Delpech,44.56901245,2.252421974631416,vaccination;emergency;general,yes,36,46,476.97,347,383
+Hôpital Saint-Louis,48.87382745,2.367700706209151,intensive,yes,114,68,5.62,9,77
+Centre hospitalier Jean Coulon,44.734230499999995,1.3751603087336797,nan,yes,105,107,463.89,339,444
+Centre hospitalier Sud-Gironde - Site de Langon,44.5446254,-0.24538233436162812,nan,yes,67,57,517.22,370,427
+Centre hospitalier de Gap,44.557099,6.073025290637922,intensive,yes,74,68,558.19,393,461
+Centre hospitalier Germon et Gauthier,50.514977099999996,2.6689790241571725,intensive,yes,58,18,186.16,163,181
+Hôpital de Girac,45.63525735,0.1197324196340693,intensive,yes,96,62,394.16,298,360
+Centre hospitalier Jeanne de Navarre,49.0534396,3.4127013537626034,general;paediatrics;ophthalmology;dentistry;orthopaedics;gynaecology;surgery;emergency;cardiology;radiology;internal;biology;maternity;geriatrics;intensive,yes,87,111,84.48,86,173
+Centre hospitalier Jean Leclaire,44.899480249999996,1.222999797916665,nan,yes,67,11,447.67,330,341
+Clinique Saint Charles,45.76994555,4.8273994810625585,nan,yes,40,13,392.88,297,310
+Hôpital Augustin-Morvan,48.394295400000004,-4.48649515764237,intensive,yes,83,114,500.87,361,444
+Hôpital Layné,43.8951539,-0.4854818,intensive;dialysis;gynaecology;cardiology;ophthalmology;oncology;radiology;paediatrics;maternity;orthopaedics;trauma;dermatology,yes,117,94,591.55,412,506
+Hôpital Saint-Julien,48.6869236,6.193465704833253,nan,yes,105,50,286.33,230,280
+Centre hospitalier Jean Rougier,44.44490505,1.4364895189610078,intensive,yes,31,76,495.1,357,388
+Hôpital de Courbevoie-Neuilly,48.890314849999996,2.2622817891015803,nan,yes,88,95,4.26,7,95
+Centre hospitalier de Villenueve-sur-Lot,44.406474849999995,0.7461156741596905,nan,yes,30,12,508.92,365,377
+Hopital Xavier Bichat,48.898994849999994,2.3324760074407234,intensive,yes,85,22,5.3,9,31
+Centre Hospitalier Jacques Monod,46.514998750000004,-1.7517402375184548,nan,yes,102,23,399.44,301,324
+Centre hospitalier Jean-Antoine Brisset,49.925312500000004,4.073180628030295,nan,yes,43,42,175.05,155,197
+Centre hospitalier Edmon Garcin,43.2919993,5.563886646040723,intensive,yes,35,43,668.2,454,489
+Centre hospitalier intercommunal de Villeneuve-Saint-Georges,48.72185,2.452865174569027,intensive,yes,84,13,19.11,26,39
+Centre hospitalier Gaston Ramon,48.19299805,3.298618889701402,intensive,yes,116,109,104.6,103,212
+Centre hospitalier Marc Jacquet,48.5574619,2.643190184208771,intensive,yes,88,77,42.12,49,126
+Hôpital François Mitterrand,47.3205124,5.069293203447381,intensive,yes,118,76,267.77,218,294
+Centre hospitalier de la Haute Gironde,45.135088749999994,-0.6597165828529701,nan,yes,45,12,470.66,343,355
+CHU de Besançon,47.225039699999996,5.962193262689461,nan,yes,99,113,327.56,257,356
+Centre hospitalier Samuel Pozzi,44.850587250000004,0.4968278863983853,nan,yes,92,111,466.11,340,432
+Hôpital de Cambolle,49.032386200000005,1.1147657840509462,general;intensive,yes,59,30,88.3,90,120
+Hôpital de Lons-le-Saunier,46.6767034,5.550261476382488,intensive,yes,88,46,343.54,267,313
+Centre hospitalier de Saint-Gaudens,43.112362149999996,0.7106281192900736,intensive,yes,86,60,650.5,445,505
+Centre Hospitalier de la Haute Vallée de l'Oise,49.58782855,2.9998920321908367,nan,yes,40,76,95.93,96,136
+Centre hospitalier Léon Touhladjian,48.91876025,2.02250925422799,intensive,yes,62,104,20.99,28,90
+Bocage central,47.3205124,5.069293203447381,intensive,yes,96,139,267.77,218,314
+Clinique privée d'Istres,43.50813545,4.99194135072049,nan,yes,44,67,630.02,433,477
+Centre hospitalier Pierre Vitter,47.4461277,5.585942784442866,nan,yes,65,63,290.27,233,296
+Clinique Capio La Croix du Sud,43.5828526,1.5096322900302717,intensive,yes,30,40,589.7,411,441
+Hôpital Broussais,48.637859750000004,-2.0080408491045425,intensive,yes,51,15,316.37,250,265
+Centre hospitalier Docteur Techer,50.9414386,1.8915308970710116,intensive,yes,55,30,233.41,196,226
+Hôpital Champ le Roy,48.36901695,5.708147571810916,nan,yes,37,63,256.76,211,248
+CHD,45.763950300000005,3.1371718261235984,intensive,yes,95,48,349.9,271,319
+CHP Saint-Grégoire,44.709625,6.089838159574467,nan,yes,40,18,544.2,385,403
+Centre hospitalier de Manosque,43.828628249999994,5.805973745996505,nan,yes,104,28,620.68,428,456
+Centre hospitalier Jean Marcel,43.40351615,6.066423172068134,nan,yes,96,54,672.39,457,511
+Clinique mutualiste de Bellevue,45.41439885,4.394430165521524,intensive,yes,52,76,414.55,310,362
+Centre hospitalier La Palmosa,43.7668453,7.483488698300468,nan,yes,77,62,692.0,467,529
+Hôpital Louis Pasteur,44.15896455,4.616679710007895,general,yes,64,48,551.87,390,438
+Centre Hospitalier Intercommunal Castres-Mazamet,43.56614145,2.262151515779642,intensive,yes,92,31,588.48,410,441
+Centre hospitalier de Pontoise,49.063755549999996,2.0966771560937487,intensive,yes,120,112,27.02,34,146
+Groupe hospitalier Henri Mondor,48.795941549999995,2.452260889708965,intensive,yes,98,49,13.48,20,69
+CHI 70 - Site de Luxeuil,47.82214365,6.380166229501725,nan,yes,47,83,323.16,254,301
+Hôpital pédiatrique Gatien de Clocheville,47.3900019,0.680540749298655,paediatrics;intensive,yes,42,28,202.5,175,203
+Centre Médico Chirurgical du Mans,47.9658019,0.22672358216694474,nan,yes,37,68,182.04,160,197
+Pôle Santé Lunel,43.6649632,4.125297428333333,nan,yes,46,44,594.34,414,458
+Hôpital Paul Chapron,48.18933775,0.6626425017835005,nan,yes,52,47,141.34,131,178
+Clinique mutualiste de Pessac,44.80650645,-0.6096267958896088,nan,yes,65,76,501.7,361,426
+Centre médico-chirugical Wallerstein,44.7530217,-1.1292287477628642,nan,yes,42,73,525.5,375,417
+Centre Hospitalier de Charleville-Mézières,49.7622185,4.69781171920827,intensive,yes,83,37,201.12,174,211
+Hôtel-Dieu,48.85468295,2.348861910166425,nan,yes,114,76,4.0,7,83
+Hôpital militaire Legouest,49.113106900000005,6.189921956596882,nan,yes,42,35,285.63,230,265
+Hôpital de la Source,47.83743705,1.9192067978315233,nan,yes,98,63,116.86,112,175
+Hôpital Bonnet,43.4380573,6.751293,intensive,yes,83,13,693.35,468,481
+Centre hospitalier Georges Charpak,47.26675815,-2.2575029823813155,intensive,yes,68,63,381.69,290,353
+Centre hospitalier Maréchal Leclerc,48.74690495,-0.017728340012860017,nan,yes,60,40,169.79,152,192
+CHRU de Lille,50.6082981,3.03462175149122,intensive,yes,73,74,201.72,174,247
+CHI Robert Ballanger,48.9530774,2.524734522455711,intensive,yes,120,93,19.85,27,120
